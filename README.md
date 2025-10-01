@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XF7mZCna)
 # Identity
-Name : ...............
+Name : Rafiandra Dirga Meazza
+NIM : 1313624050
 
 # Instruction
 for today quiz, complete the following
@@ -10,4 +11,5 @@ for today quiz, complete the following
 
 # Homework 1 (next week)
 Complete the function as a seller to:
+
 - Add inventory as a seller
